@@ -1,5 +1,5 @@
 <?php  
-// db connect
+// db connect settings
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = 'sqladmin';
